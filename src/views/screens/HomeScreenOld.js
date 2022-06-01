@@ -21,7 +21,7 @@ import {
 
 const Tab = createMaterialTopTabNavigator();
 
-export default function HomeScreen() {
+export default function HomeScreenOld() {
   let [fontsLoaded] = useFonts({
     Roboto_100Thin,
     Roboto_100Thin_Italic,
